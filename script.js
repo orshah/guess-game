@@ -70,3 +70,5 @@ const againBtnHandler = () => {
 };
 checkBtn.addEventListener("click", chechBtnHandler);
 againBtn.addEventListener("click", againBtnHandler);
+
+//
